@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-catatanbelanja/static/css/main.ca0db9e0.css",
+    "main.js": "/react-catatanbelanja/static/js/main.c3acc799.js",
+    "static/media/paper-bg.jpg": "/react-catatanbelanja/static/media/paper-bg.08592b85b71759b93496.jpg",
+    "index.html": "/react-catatanbelanja/index.html",
+    "main.ca0db9e0.css.map": "/react-catatanbelanja/static/css/main.ca0db9e0.css.map",
+    "main.c3acc799.js.map": "/react-catatanbelanja/static/js/main.c3acc799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0db9e0.css",
+    "static/js/main.c3acc799.js"
+  ]
+}
